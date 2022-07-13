@@ -1,3 +1,0 @@
-
-#disable internal wifi adapter
-sudo ifconfig wlp3s0 down
